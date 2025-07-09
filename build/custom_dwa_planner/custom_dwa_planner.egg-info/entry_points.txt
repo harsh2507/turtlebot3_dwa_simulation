@@ -1,0 +1,4 @@
+[console_scripts]
+dwa_planner = custom_dwa_planner.dwa_planner:main
+goal_publisher = custom_dwa_planner.goal_publisher:main
+

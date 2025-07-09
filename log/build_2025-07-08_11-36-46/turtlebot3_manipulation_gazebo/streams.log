@@ -1,0 +1,103 @@
+[0.497s] Invoking command in '/home/harsh/turtlebot3_ws/build/turtlebot3_manipulation_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/harsh/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_manipulation_gazebo -DCMAKE_INSTALL_PREFIX=/home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo
+[1.226s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.899s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.208s] -- Configuring done
+[2.217s] -- Generating done
+[2.219s] -- Build files have been written to: /home/harsh/turtlebot3_ws/build/turtlebot3_manipulation_gazebo
+[2.222s] Invoked command in '/home/harsh/turtlebot3_ws/build/turtlebot3_manipulation_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/harsh/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_manipulation_gazebo -DCMAKE_INSTALL_PREFIX=/home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo
+[2.225s] Invoking command in '/home/harsh/turtlebot3_ws/build/turtlebot3_manipulation_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/harsh/turtlebot3_ws/build/turtlebot3_manipulation_gazebo -- -j8 -l8
+[2.488s] Invoked command in '/home/harsh/turtlebot3_ws/build/turtlebot3_manipulation_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/harsh/turtlebot3_ws/build/turtlebot3_manipulation_gazebo -- -j8 -l8
+[2.498s] Invoking command in '/home/harsh/turtlebot3_ws/build/turtlebot3_manipulation_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/harsh/turtlebot3_ws/build/turtlebot3_manipulation_gazebo
+[2.505s] -- Install configuration: ""
+[2.505s] -- Execute custom install script
+[2.661s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/config/gazebo_controller_manager.yaml
+[2.661s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/config/hardware_controller_manager.yaml
+[2.794s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/gazebo/materials.xacro
+[2.816s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/gazebo/open_manipulator_x.gazebo.xacro
+[2.818s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/gazebo/turtlebot3_waffle_pi.gazebo.xacro
+[2.819s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/launch/base.launch.py
+[2.820s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/launch/fake.launch.py
+[2.820s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/launch/gazebo.launch.py
+[2.821s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/launch/turtlebot3_home_service_challenge.launch.py
+[2.894s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/ros2_control/turtlebot3_manipulation_system.ros2_control.xacro
+[2.895s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/rviz/turtlebot3_manipulation.rviz
+[2.897s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/urdf/open_manipulator_x.urdf.xacro
+[2.897s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/urdf/turtlebot3_manipulation.urdf.xacro
+[2.897s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/urdf/turtlebot3_waffle_pi.urdf.xacro
+[2.994s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/worlds/turtlebot3_home_service_challenge.world
+[3.371s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker0/materials/textures/Marker0.png
+[3.372s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker0/meshes/Marker0.dae
+[3.372s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker0/model-1_4.sdf
+[3.372s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker0/model-1_5.sdf
+[3.372s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker0/model.config
+[3.373s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker0/model.sdf
+[3.374s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker1/materials/textures/Marker1.png
+[3.375s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker1/meshes/Marker1.dae
+[3.376s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker1/model-1_4.sdf
+[3.377s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker1/model-1_5.sdf
+[3.377s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker1/model.config
+[3.378s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker1/model.sdf
+[3.426s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker2/materials/textures/Marker2.png
+[3.460s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker2/meshes/Marker2.dae
+[3.515s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker2/model-1_4.sdf
+[3.515s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker2/model-1_5.sdf
+[3.537s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker2/model.config
+[3.538s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker2/model.sdf
+[3.681s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker3/materials/textures/Marker3.png
+[3.703s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker3/meshes/Marker3.dae
+[3.704s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker3/model-1_4.sdf
+[3.704s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker3/model-1_5.sdf
+[3.705s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker3/model.config
+[3.705s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker3/model.sdf
+[3.706s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker4/materials/textures/Marker4.png
+[3.706s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker4/meshes/Marker4.dae
+[3.706s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker4/model-1_4.sdf
+[3.706s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker4/model-1_5.sdf
+[3.707s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker4/model.config
+[3.707s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker4/model.sdf
+[3.836s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker5/materials/textures/Marker5.png
+[3.869s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker5/meshes/Marker5.dae
+[3.870s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker5/model-1_4.sdf
+[3.903s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker5/model-1_5.sdf
+[3.906s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker5/model.config
+[3.907s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker5/model.sdf
+[4.018s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker6/materials/textures/Marker6.png
+[4.062s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker6/meshes/Marker6.dae
+[4.106s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker6/model-1_4.sdf
+[4.106s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker6/model-1_5.sdf
+[4.173s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker6/model.config
+[4.173s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker6/model.sdf
+[4.210s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker7/materials/textures/Marker7.png
+[4.210s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker7/meshes/Marker7.dae
+[4.211s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker7/model-1_4.sdf
+[4.211s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker7/model-1_5.sdf
+[4.211s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker7/model.config
+[4.212s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker7/model.sdf
+[4.212s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker8/materials/textures/Marker8.png
+[4.213s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker8/meshes/Marker8.dae
+[4.213s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker8/model-1_4.sdf
+[4.214s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker8/model-1_5.sdf
+[4.214s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker8/model.config
+[4.214s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker8/model.sdf
+[4.233s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker9/materials/textures/Marker9.png
+[4.265s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker9/meshes/Marker9.dae
+[4.266s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker9/model-1_4.sdf
+[4.266s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker9/model-1_5.sdf
+[4.267s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker9/model.config
+[4.267s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/models/turtlebot3_home_service_challenge/marker9/model.sdf
+[4.268s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/ament_index/resource_index/package_run_dependencies/turtlebot3_manipulation_gazebo
+[4.268s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/ament_index/resource_index/parent_prefix_path/turtlebot3_manipulation_gazebo
+[4.269s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/environment/ament_prefix_path.sh
+[4.269s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/environment/ament_prefix_path.dsv
+[4.270s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/environment/path.sh
+[4.270s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/environment/path.dsv
+[4.270s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/local_setup.bash
+[4.271s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/local_setup.sh
+[4.271s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/local_setup.zsh
+[4.271s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/local_setup.dsv
+[4.272s] -- Symlinking: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/package.dsv
+[4.355s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/ament_index/resource_index/packages/turtlebot3_manipulation_gazebo
+[4.356s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/cmake/turtlebot3_manipulation_gazeboConfig.cmake
+[4.356s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/cmake/turtlebot3_manipulation_gazeboConfig-version.cmake
+[4.356s] -- Up-to-date symlink: /home/harsh/turtlebot3_ws/install/turtlebot3_manipulation_gazebo/share/turtlebot3_manipulation_gazebo/package.xml
+[4.358s] Invoked command in '/home/harsh/turtlebot3_ws/build/turtlebot3_manipulation_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/harsh/turtlebot3_ws/build/turtlebot3_manipulation_gazebo

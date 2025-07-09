@@ -1,0 +1,5 @@
+  File "/home/harsh/turtlebot3_ws/install/custom_dwa_planner/lib/python3.10/site-packages/custom_dwa_planner/dwa_planner.py", line 865
+    I apologize for the error in the previous response. You are absolutely correct; the error occurs because `self.get_parameters()` returns a *list* of parameter objects, and I was trying to access it like a dictionary.
+      ^^^^^^^^^
+SyntaxError: invalid syntax
+

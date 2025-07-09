@@ -1,0 +1,5 @@
+  File "/home/harsh/turtlebot3_ws/install/custom_dwa_planner/lib/python3.10/site-packages/custom_dwa_planner/goal_publisher.py", line 33
+    goal.pose.orient1.0
+                     ^^
+SyntaxError: invalid syntax
+

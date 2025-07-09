@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/custom_dwa_planner/custom_dwa_planner.egg-info/PKG-INFO
+writing dependency_links to ../../build/custom_dwa_planner/custom_dwa_planner.egg-info/dependency_links.txt
+writing entry points to ../../build/custom_dwa_planner/custom_dwa_planner.egg-info/entry_points.txt
+writing requirements to ../../build/custom_dwa_planner/custom_dwa_planner.egg-info/requires.txt
+writing top-level names to ../../build/custom_dwa_planner/custom_dwa_planner.egg-info/top_level.txt
+reading manifest file '../../build/custom_dwa_planner/custom_dwa_planner.egg-info/SOURCES.txt'
+writing manifest file '../../build/custom_dwa_planner/custom_dwa_planner.egg-info/SOURCES.txt'
+running build
+running build_py
+copying custom_dwa_planner/dwa_planner.py -> /home/harsh/turtlebot3_ws/build/custom_dwa_planner/build/lib/custom_dwa_planner
+running install
+running install_lib
+copying /home/harsh/turtlebot3_ws/build/custom_dwa_planner/build/lib/custom_dwa_planner/dwa_planner.py -> /home/harsh/turtlebot3_ws/install/custom_dwa_planner/lib/python3.10/site-packages/custom_dwa_planner
+byte-compiling /home/harsh/turtlebot3_ws/install/custom_dwa_planner/lib/python3.10/site-packages/custom_dwa_planner/dwa_planner.py to dwa_planner.cpython-310.pyc
+  File "/home/harsh/turtlebot3_ws/install/custom_dwa_planner/lib/python3.10/site-packages/custom_dwa_planner/dwa_planner.py", line 865
+    I apologize for the error in the previous response. You are absolutely correct; the error occurs because `self.get_parameters()` returns a *list* of parameter objects, and I was trying to access it like a dictionary.
+      ^^^^^^^^^
+SyntaxError: invalid syntax
+
+running install_data
+running install_egg_info
+removing '/home/harsh/turtlebot3_ws/install/custom_dwa_planner/lib/python3.10/site-packages/custom_dwa_planner-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/custom_dwa_planner/custom_dwa_planner.egg-info to /home/harsh/turtlebot3_ws/install/custom_dwa_planner/lib/python3.10/site-packages/custom_dwa_planner-0.0.0-py3.10.egg-info
+running install_scripts
+Installing dwa_planner script to /home/harsh/turtlebot3_ws/install/custom_dwa_planner/lib/custom_dwa_planner
+Installing goal_publisher script to /home/harsh/turtlebot3_ws/install/custom_dwa_planner/lib/custom_dwa_planner
+writing list of installed files to '/home/harsh/turtlebot3_ws/build/custom_dwa_planner/install.log'
