@@ -22,3 +22,6 @@
    
 7. TurtleBot3 navigates from a start pose to a user-defined goal pose in RViz
    ![DWA Visualization Result](rviz.jpg)
+   
+9. TurtlBot reached to it's Final goal point
+   ![DWA Visualization Result](goal_log.jpg)
