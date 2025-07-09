@@ -19,5 +19,6 @@
    ```bash
    export TURTLEBOT3_MODEL=burger
    ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
-
+   
+7. TurtleBot3 navigates from a start pose to a user-defined goal pose in RViz
    ![DWA Visualization Result](rviz.jpg)
